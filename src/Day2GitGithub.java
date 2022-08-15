@@ -19,5 +19,7 @@ public class Day2GitGithub {
         System.out.println("2. islem");
         System.out.println("3. islem");
         // Github ogrendim
+        //error: remote origin already exists.
+
     }
 }
