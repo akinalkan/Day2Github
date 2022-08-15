@@ -20,6 +20,7 @@ public class Day2GitGithub {
         System.out.println("3. islem");
         // Github ogrendim.Degisiklik
         System.out.println("Branch deneme 1");
+        System.out.println("master branc'i 1. degisikligi");
        
 
     }
