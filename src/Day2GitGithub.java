@@ -13,12 +13,11 @@ public class Day2GitGithub {
                     git push -u origin master
      Not:Yukaridaki 2 komutu tek seferde kullandiktan sonra 2. commit'lerim icin sadece
      git push  kullaniriz
-     6-) git pull --> Github'da ki degisiklikleri locale 'e almak icin kullaniriz
      */
     public static void main(String[] args) {
         System.out.println("Github'i da ogrendim");
         System.out.println("2. islem");
         System.out.println("3. islem");
-        // Github ogrendim.Github'dan pull ettik[git pull]
+        // Github ogrendim
     }
 }
