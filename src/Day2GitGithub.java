@@ -21,7 +21,8 @@ public class Day2GitGithub {
         // Github ogrendim.Degisiklik
         System.out.println("Branch deneme 1");
         System.out.println("master branc'i 1. degisikligi");
-       
+        System.out.println("akin branc'i 1. degisikligi");
+
 
     }
 }
