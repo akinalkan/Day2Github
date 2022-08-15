@@ -18,7 +18,7 @@ public class Day2GitGithub {
         System.out.println("Github'i da ogrendim");
         System.out.println("2. islem");
         System.out.println("3. islem");
-        // Github ogrendim
+        // Github ogrendim.Degisiklik
        
 
     }
