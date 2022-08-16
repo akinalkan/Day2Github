@@ -27,6 +27,7 @@ public class Day2GitGithub {
         System.out.println("akin branc'i 2.degisikligi");
         System.out.println("*******");
         //Merhaba
+        //Merhaba-2
 
 
 
